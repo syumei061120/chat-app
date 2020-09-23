@@ -35,7 +35,7 @@
 - belongs_to :room
 - belongs_to :user
 
-## messages　テーブル
+## messages テーブル
 | Colum     | Type      | Options                          |
 | --------- | --------- | -------------------------------- |
 | content   | string    |                                  |
